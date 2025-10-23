@@ -1,2 +1,2 @@
 # My-Cybersecurity-Portfolio
-As part of my cybersecurity journey, I have created a rigorous cybersecurity projects portfolio. These projects will encompass the most common industry tools ranging from Linux, SQL, Python, SIEMs, (Splunk) Snort, Nmap and Wireshark. I will also be covering cloud security on both AWS and Azure platforms.
+Cybersecurity professional dedicated to building robust defense systems. Skilled in vulnerability management, threat analysis, and security monitoring. Hands-on experience with SIEM tools, penetration testing frameworks, and implementing security controls to protect network and cloud infrastructure (AWS, Azure).
